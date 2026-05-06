@@ -1,0 +1,12 @@
+[project]
+name = "wikistuff"
+version = "0.2.1"
+description = "Small read-only CLI for Wikidata and English Wikipedia lookups."
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "typer",
+]
+
+[project.scripts]
+wikistuff = "wikistuff:app"

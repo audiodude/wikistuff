@@ -26,6 +26,15 @@ Or, since the shebang is `#!/usr/bin/env -S uv run --script`:
 ./wikistuff.py --help
 ```
 
+### Run it without cloning
+
+`uv` can fetch and run a PEP 723 script straight from a URL, so you can try
+the released version without cloning the repo:
+
+```sh
+uv run https://raw.githubusercontent.com/audiodude/wikistuff/v0.2.1/wikistuff.py --help
+```
+
 ## Examples
 
 Get the English label for a Wikidata item:
