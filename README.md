@@ -8,7 +8,7 @@ looking for inspiration to build your own scripts against the MediaWiki APIs, th
 is a reasonable starting point.
 
 It was created at the **WikiMediaWiki Workshop in May 2026**, presented by
-[BAWUG](https://bawug.org/) (the Bay Area Wikipedians User Group).
+[BAWUG](https://meta.wikimedia.org/wiki/Bay_Area_Wikipedians_User_Group) (the Bay Area Wikipedians User Group).
 
 ## Running it
 
