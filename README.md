@@ -10,6 +10,10 @@ is a reasonable starting point.
 It was created at the **WikiMediaWiki Workshop in May 2026**, presented by
 [BAWUG](https://meta.wikimedia.org/wiki/Bay_Area_Wikipedians_User_Group) (the Bay Area Wikipedians User Group).
 
+This is a fork of [yardenac/wikistuff](https://github.com/yardenac/wikistuff) —
+many thanks to the original developers for the starting point. This fork is
+maintained by [User:Audiodude](https://en.wikipedia.org/wiki/User:Audiodude).
+
 ## Running it
 
 The script ships with a [PEP 723](https://peps.python.org/pep-0723/) inline metadata
